@@ -8,7 +8,7 @@
     <td width="1440">
       <h2 align="center">Background</h2>
       <body>
-        <strong>TechZone</strong>, founded in 2018, is a US based global retailer of new and refurbished consumer electronics products. Over the past few years, TechZone has experienced steady growth while navigating both challenges and opportunities arising from the COVID-19 pandemic. <br>
+        <strong>TechZone</strong>, founded in 2018, is a US based global ecommerce company that sells new and refurbished consumer electronics products. Over the past few years, TechZone has experienced steady growth while navigating both challenges and opportunities arising from the COVID-19 pandemic. <br>
         <br>
         <strong>TechZone</strong> currently serves <strong>88,000+</strong> customers and has recorded over <strong>108,000</strong> transactions, generating more than <strong>$28 million</strong> in sales revenue. The available eCommerce dataset includes multiple dimensions and metrics, covering sales, products, regional performance, and information from the company’s loyalty program. <br>
         <br>Reporting to the Head of Sales Department, a detailed analysis was conducted to assess TechZone’s performance from 2019 to 2022. This comprehensive review provides actionable insights that cross-functional teams can leverage to optimize processes and improve the company’s commercial outcomes. The key findings and recommendations focus on the following areas:
