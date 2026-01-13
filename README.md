@@ -77,7 +77,7 @@
 </table>
 
 <li>Targeted SQL queries addressing key business questions can be found <a href="https://github.com/JiamingD03/TechZone/blob/main/TechZone.sql">here</a>.</li>
-<li>Detailed KPI reporting can be found <a href = "https://github.com/JiamingD03/TechZone/blob/main/TechZone_Cleaned.xlsx">here</a>.</li>
+<li>Data cleaning and detailed KPI reporting can be found <a href = "https://github.com/JiamingD03/TechZone/blob/main/TechZone_Cleaned.xlsx">here</a>.</li>
 
 
 
